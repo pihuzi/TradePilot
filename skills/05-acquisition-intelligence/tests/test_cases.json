@@ -1,0 +1,13 @@
+{
+  "cases": [
+    "valid_input",
+    "missing_input",
+    "invalid_input",
+    "unavailable_source",
+    "low_confidence",
+    "duplicate",
+    "interrupted",
+    "output_shape",
+    "approval_and_cost_gate"
+  ]
+}
